@@ -1,1 +1,1 @@
-# tallerCienciasGOES16
+# Repositorio con Notebook para taller
